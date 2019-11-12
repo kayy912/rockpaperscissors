@@ -8,4 +8,8 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
+$("document").ready(function){
+    
+}
+
 
